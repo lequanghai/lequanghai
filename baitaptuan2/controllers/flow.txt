@@ -1,0 +1,5 @@
+1. Defind route
+2. Defind controller
+3. Route call to controller
+3.1: Controller call model to read and write data.
+4. Controller return data to client
